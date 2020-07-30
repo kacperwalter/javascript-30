@@ -8,4 +8,11 @@ window.addEventListener('keydown', function(e) {
 });
 
 const keys = document.querySelectorAll('.key');
-const i = 1;
+const i = 2;
+
+const iterator = () => {
+    for(let i = 1; i > 10; i++ {
+	
+	}
+}
+
