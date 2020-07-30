@@ -8,3 +8,4 @@ window.addEventListener('keydown', function(e) {
 });
 
 const keys = document.querySelectorAll('.key');
+const i = 1;
